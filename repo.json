@@ -7048,6 +7048,17 @@
               "md5": "b14861008657f496fe8135977174667d"
             }
           }
+        },
+        {
+          "version": "2.0.0",
+          "commit": "db6b10badd96f69d14e86b137422c519ac4259f2",
+          "url": "https://github.com/bmcsoftware/bmchelix-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/bmcsoftware/bmchelix-datasource/releases/download/v2.0.0/bmchelix-ade-datasource-V2.0.0.zip",
+              "md5": "3daabd8c3bf8ff8915ebd8e6f3f22f9f"
+            }
+          }
         }
       ]
     },
